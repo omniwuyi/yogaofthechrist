@@ -23,4 +23,4 @@
 * [第十五章](di-shi-wu-zhang.md)
 * [第十六章](di-shi-liu-zhang.md)
 * [第十七章](di-shi-qi-zhang.md)
-* [第十八章](di-shi-ba-zhang.md)
+* [第十八章（完）](di-shi-ba-zhang-wan.md)
