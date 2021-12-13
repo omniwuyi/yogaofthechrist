@@ -8,7 +8,15 @@
 
 中文译版由 Omni One 出版
 
-ISBN&#x20;
+ISBN 978-0-473-61312-9 (Softcover)
+
+ISBN 978-0-473-61313-6 (Hardcover)
+
+ISBN 978-0-473-61314-3 (Epub)
+
+ISBN 978-0-473-61315-0 (Kindle)
+
+ISBN 978-0-473-61316-7 (PDF)
 
 Omni One\
 [https://www.omnione.live](https://www.omnione.live)\
