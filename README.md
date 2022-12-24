@@ -16,14 +16,6 @@ _你可以在 Amazon/亚马逊 电子书店搜索此关键字找到此书（注�
 
 为了方便大家阅读、分享、共创，我们将此书开源发布了，大家可以在 Gitbook （https://yoga.omnione.live/）上阅读此书，并通过 Github （https://github.com/bettec/yogaofthechrist/blob/master/README.md）纠错、共创。
 
-![](https://mmbiz.qpic.cn/mmbiz\_png/xws7d9qricCaSTlETS5XOm5Pib2xicSlEcp23Cf49EfzJDfvC9cVzd9P78TDZic7RaaN9b5Y2tLOWreHeop6rHP9nQ/640?wx\_fmt=png)
-
-### **喜马拉雅音频**
-
-根据读者反馈，我们为《生命瑜伽》一书录制了有声音频书，方便大家随时随地学习成长。
-
-![](https://mmbiz.qpic.cn/mmbiz\_png/xws7d9qricCaSTlETS5XOm5Pib2xicSlEcpckzIicTLVznwK6ulxnjGLzBTcjfc2NpRlBWYnOHprtHWTEGXZH1DTtg/640?wx\_fmt=png)
-
 ### 公众号打赏
 
 此书的翻译、校对、出版都是由 Omni One 公益完成的，如果你觉得此书对你有所启发、有所触动，请慷慨打赏，让我们能够继续翻译和传播此类书籍。
@@ -32,8 +24,11 @@ _你可以在 Amazon/亚马逊 电子书店搜索此关键字找到此书（注�
 
 ![](https://mmbiz.qpic.cn/mmbiz\_jpg/xws7d9qricCaSTlETS5XOm5Pib2xicSlEcpaiaH2ynLkattwnmHumKFqkambjHBITBjEiaZR3NYcbxsPk9tbicYUIowA/640?wx\_fmt=jpeg)
 
-\
+### **喜马拉雅音频**
 
+根据读者反馈，我们为《生命瑜伽》一书录制了有声音频书，方便大家随时随地学习成长。
+
+<figure><img src=".gitbook/assets/IMG_4008.JPG" alt=""><figcaption></figcaption></figure>
 
 Shield: [![](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
