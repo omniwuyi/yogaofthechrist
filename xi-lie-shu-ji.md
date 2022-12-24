@@ -41,5 +41,5 @@
 《生命之水》（1954年课程笔记）
 
 可以从Mystica Republication Ltd 获取完整的书籍清单\
-[http://mystica.co.nz/](http://mystica.co.nz)
+[http://mystica.co.nz/](http://mystica.co.nz/)
 

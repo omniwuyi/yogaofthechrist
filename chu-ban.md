@@ -19,7 +19,7 @@ ISBN 978-0-473-61315-0 (Kindle)
 ISBN 978-0-473-61316-7 (PDF)
 
 Omni One\
-[https://www.omnione.live](https://www.omnione.live)\
+[https://www.omnione.live](https://www.omnione.live/)\
 info@omnione.live\
 奥克兰，新西兰
 

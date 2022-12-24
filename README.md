@@ -6,7 +6,7 @@
 
 《生命瑜伽》电子书现已在全球 Amazon/亚马逊 书店发行了，在此认购 🚀
 
-![](https://mmbiz.qpic.cn/mmbiz\_png/xws7d9qricCaSTlETS5XOm5Pib2xicSlEcp8dPxZucP5F6a7wU9FuBDtkgCojxu16icDunSCibBvuibBt35YIGTRaaPA/640?wx\_fmt=png)
+<figure><img src=".gitbook/assets/Screen Shot 2022-12-24 at 5.09.49 PM.png" alt=""><figcaption></figcaption></figure>
 
 _你可以在 Amazon/亚马逊 电子书店搜索此关键字找到此书（注意要用繁体字）：生命瑜伽、莫多·麥克唐納·貝恩。_
 
